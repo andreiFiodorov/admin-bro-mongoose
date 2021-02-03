@@ -117,5 +117,3 @@ dist
 
 .DS_store
 
-# build files
-/lib
